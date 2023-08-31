@@ -46,8 +46,6 @@ p {
   line-height: 1.17;
   letter-spacing: 0.54px;
   text-transform: uppercase;
-  padding-top: 25.5px;
-  padding-bottom: 25.5px;
   margin-right: 76px;
 }
 .span-logo {
@@ -114,6 +112,8 @@ p {
   line-height: 1.07;
   letter-spacing: 1.12px;
   max-width: 496px;
+  margin-left: auto;
+  margin-right: auto;
 }
 .button {
   cursor: pointer;
@@ -133,6 +133,8 @@ p {
   min-width: 169px;
   height: 56px;
   border: none;
+  margin-left: auto;
+  margin-right: auto;
 }
 .button:hover,
 .button:focus {
